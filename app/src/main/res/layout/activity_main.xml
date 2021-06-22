@@ -38,7 +38,7 @@
         android:id="@+id/submitbutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Signin"
+        android:text="Sign in"
         android:textSize="30dp"/>
 
 </LinearLayout>
