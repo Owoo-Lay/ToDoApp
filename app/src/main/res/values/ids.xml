@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="usernameDisplay" type="id" />
+    <item name="profileButton" type="id">profileButton</item>
+    <item name="homeButton" type="id">homeButton</item>
 </resources>
